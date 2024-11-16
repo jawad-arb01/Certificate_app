@@ -11,7 +11,7 @@ public class SpringAzureDemoApplication {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello from Azure !! , my name is jawad arbahi";
+        return "Hello from Azure !! , my name is ilyasse arbahi !";
     }
     public static void main(String[] args) {
         SpringApplication.run(SpringAzureDemoApplication.class, args);
